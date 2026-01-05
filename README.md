@@ -77,6 +77,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://www.linkedin.com/in/harsh-anand-487b76290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                    <img src="https://avatars.githubusercontent.com/u/162125322?v=4" width="100px;"
+                        alt="Arpita Deodikar" />
+                    <br />
+                    <sub>
+                        <b>Harsh Anand</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/harik0812">
                     <img src="https://avatars.githubusercontent.com/u/204353327?v=4&size=64" width="100px;"
